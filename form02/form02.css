@@ -1,0 +1,39 @@
+body{
+    font-family: Tahoma;
+    font-size: 11pt;
+}
+
+th{
+    font-size: 13pt;
+    background: #ff0000;
+    color: #ffffff;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid #ff0000;
+    background: url(images/bgbottom_yellow.jpg) repeat-x left bottom;
+}
+
+button{
+    background: #ff0000;
+    color: #ffffff;
+    border: #90ee90 1px solid;
+    padding: 5px 10px;
+}
+ 
+input{
+    padding: 5px;
+    width: 280px;
+    background: #87cefa;
+    border: 1px dotted #e0ffff;
+}
+
+input:focus{
+    border: 1px solid #6a5acd;
+    background:	#adff2f;
+}
+
+td{
+    padding: 5px;
+} 
